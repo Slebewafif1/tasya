@@ -1083,8 +1083,9 @@ https://tv.casindo.org/hls/51/51.m3u8
 #EXTINF:-1 group-title="SEAGAMES" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW8Qjclsu9fpbIqK_6ZHq9eJQXYmIAmeYk1GZnLMV6vA&s=10", GTV SPORTS 
 https://tv.casindo.org/hls/57/57.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS25fSIf3QW4Em4GescKhRZdgRLo1MIAs3P6fCyQWc6OA&s=10" group-title="SEAGAMES",Astro Arena
-https://sports.semar.my.id/get.php?id=astroarena.m3u8&auth=astroarenasemar25
+#EXTINF:-1 group-title="SEAGAMES" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS25fSIf3QW4Em4GescKhRZdgRLo1MIAs3P6fCyQWc6OA&s=10",Astro Arena
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://link.zozotv.xyz:443/live/ZZA21216/zxe36880/154.ts
 
 ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
 
@@ -1628,7 +1629,7 @@ http://filex.tv:8080//live/Waqas%20Latif/12345678/302240.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_flik.png" group-title="MOVIES",FLIK (OFC)
 http://filex.tv:8080//live/Waqas%20Latif/12345678/302244.ts
 
-#EXTINF:-1 tvg-id="121" tvg-name="SIAR" group-title="MOVIES" ,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxeHxcJrZkm1U4rVr8mXM8g6zwCcVbpQgwpha-2aQWbQ&s=10",Siar 
+#EXTINF:-1 tvg-id="121" tvg-name="SIAR", group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxeHxcJrZkm1U4rVr8mXM8g6zwCcVbpQgwpha-2aQWbQ&s=10",Siar 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -2149,11 +2150,11 @@ astro SPORTS
                                                   Astro Sports
                                                  
 
-#EXTINF:-1 group-title="Astro Sports" tvg-id="" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/Ch-AstroArena.jpg",Astro Arena hd
+#EXTINF:-1 group-title="Astro Sports" tvg-id="" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/Ch-AstroArena.jpg",Astro Arena
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://link.zozotv.xyz:443/live/ZZA21216/zxe36880/154.ts
 
-#EXTINF:-1 group-title="Astro Sports" tvg-id="" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/Ch-AstroArena2.jpg",Astro Arena 2 hd
+#EXTINF:-1 group-title="Astro Sports" tvg-id="" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/Ch-AstroArena2.jpg",Astro Arena 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #https://link.zozotv.xyz:443/live/ZZA21216/zxe36880/400.ts
 
@@ -2621,7 +2622,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=10&b
 
 
 <=========================================== Korean Channels =======================================================>
-
 
 
 

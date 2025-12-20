@@ -1447,7 +1447,7 @@ https://github.com/lusianaputri/lusipunyalu/raw/refs/heads/main/3f29c4075e4dd7c9
 #KODIPROP:inputstream.adaptive.license_key={"9d8b1b819cfdcff845625b86cc4968f3":"480b03fe4476bc187c6a9d43ba85b9db","3cf686dc4246f19bc4419c54da0f90bc":"b40f599266c8a262ccf4a384dadce08a","b6362975ca29d0685b7cac721b6faa26":"da04d180e9028af27482b6a37c81e020","3acea01244785a6363fc04b25d696392":"f0b8f84dbd93407af6ab0b41fc774249","6ca2f2c822444ff76d9570741dec7b2b":"9fc3d71ab30e8d33f09ee29e5e453608"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="FR | beIN SPORTS 1" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%201.png" group-title="BEIN SPORTS" group-logo="https://play-lh.googleusercontent.com/5ZJ3em3xAhWLDjNIDnn-HEwvRW3U2GwjPwpal6laKBuXevO6j9b_DwZbHaWKX4pTig=w240-h480-rw",beIN SPORTS FR 1
-https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
+https://raw.githubusercontent.com/lusianaputri/lusipunyalu/refs/heads/main/BSFR1.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"71fcdcfd58c608662db317fcf4411c19":"eaf76e97b969a7d124a720a109acda61","6c976caa628fde89aacedbd47059967e":"0d1e54565950c1e2f58d45c561a47187","7a62a516c5d980553f497c6bfc469b19":"a0eeb97b4d14d6bb7a5c39755dd7c41c","85ac9362e89354ef5341fe4dbee0dd6a":"e556276599c55bdee169f39eab8e56bc","f81df5cf72bd43c3da84d04dc8691fcb":"4a60e4e009560c40766a0fa38770ef4e"}
@@ -2885,6 +2885,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=10&b
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
 #https://vidd.semar.my.id/cobaduarr.mpd?id=9183&type=dash
+
 
 
 

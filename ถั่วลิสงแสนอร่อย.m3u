@@ -40,7 +40,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 #http://filex.tv:8080//live/000003/000003/302279.ts
 
 #EXTINF:-1 group-title="Nasional" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ0SIS7RjHccNqrEvjNwHmDc_YRrZ-F6utD-OH35QJLg&s=10", SCTV SPORTS 
-#https://tv.casindo.org/hls/55/55.m3u8
+https://tv.casindo.org/hls/55/55.m3u8
 
 
 #EXTINF:-1 group-title="Nasional" tvg-id="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_sctv.png",SCTV (DNS)
@@ -2843,6 +2843,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=10&b
 
 
 <=========================================== =======================================================>
+
 
 
 

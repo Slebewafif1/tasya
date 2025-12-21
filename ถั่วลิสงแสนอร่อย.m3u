@@ -80,9 +80,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_transtv.png" group-title="Nasional",Trans TV (DTK)
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_transtv.png" group-title="Nasional",Trans TV (VDO)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://nextgenz.my.id/event/pidio/play.m3u8?id=733&type=hls
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_transtv.png" group-title="Nasional",Trans TV (LIVE)
@@ -97,10 +94,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_trans7.png" group-title="Nasional",Trans 7 (DTK)
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_trans7.png" group-title="Nasional",TRANS 7 (VDO)
-https://nextgenz.my.id/event/pidio/play.m3u8?id=734&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
@@ -2850,6 +2843,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=10&b
 
 
 <=========================================== =======================================================>
+
 
 
 

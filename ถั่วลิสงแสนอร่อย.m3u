@@ -445,6 +445,11 @@ https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C81Gx6ZaO6Bx8zN44uARKJkg/ts
 #EXTINF:-1 group-title="SPORTS TV NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj2QeFb8-0IQ6_QAE_J1YMxY07tT4KqSFXopFg873mSw&s=10", INDOSIAR SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
+#https://live.golivenow71.com/9de3188896ccb0b46d4dc034ee64093f/1766531435717/rchtwtx/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS TV NASIONAL" tvg-logo="https://i.ibb.co.com/ST0Bhqb/GIF-Image1766347327239.gif", INDOSIAR SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.plcdn.xyz/
 https://live.golivenow71.com/9de3188896ccb0b46d4dc034ee64093f/1766531435717/rchtwtx/index.m3u8
 
 Nyolong bangsat
@@ -2839,6 +2844,7 @@ https://hotlivezz179026907.akainu.xyz/j5Fa2Ee9jO_2EBdOjopddA/Fv2lucGIbhPi2caWYvF
 
 #EXTINF:-1 group-title="LIVE EVENT🔵" tvg-logo="https://cdn.pixabay.com/animation/2023/12/10/18/57/18-57-39-45_512.gif", LIVE 5
 https://shorter.me/mviHP
+
 
 
 

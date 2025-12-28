@@ -54,9 +54,9 @@ https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
   
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvone.png" group-title="Nasional",TVONE (Server 2)
-https://atemecdnbalancer-voe.sysln.id/live/eds/TvOne/mediampd/TvOne.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/TvOne/mediampd/TvOne.mpd
 
-#EXTINF:-1 group-title="Nasional" tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvone.png",TVONE (Server 3)
+#EXTINF:-1 group-title="Nasional" tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvone.png",TVONE (Server 2)
 https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 
 #EXTINF:-1 tvg-id="NET.TV.id" tvg-logo="https://images.indihometv.com/images/channels/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg" group-title="Nasional",MDTV (Server 1)
@@ -1069,6 +1069,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="TV JEPANG" tvg-id="wowowprime" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png",WOWOW Prime  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+
 
 
 

@@ -446,7 +446,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000158/1024.m3u8
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/FRANCE_24/manifest.mpd
 
 #EXTINF:0 group-title="News & Other" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_france24.png",France24
-http://op-group1-swiftservesd-1.dens.tv/s/s22/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=France_24
+#http://op-group1-swiftservesd-1.dens.tv/s/s22/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=France_24
 
 #EXTINF:-1 group-title="News & Other" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nhkworldjapan.png",NHK World Japan
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
@@ -1069,6 +1069,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="TV JEPANG" tvg-id="wowowprime" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png",WOWOW Prime  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+
 
 
 

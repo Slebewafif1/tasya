@@ -330,7 +330,7 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000161/1024.m3u8
 
 #EXTINF:-1 tvg-id="Food Travel" tvg-name="Vision +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0ARlcoCC9chX5gIs-1rJUbgaBKUoiS3LCB7n4t8N-w&s=10" group-title="Knowledge & Lifestyle", Food Travel
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000003/1024.m3u8
+#http://202.80.222.20/cdn/iptv/Tvod/001/channel2000003/1024.m3u8
 
 #EXTINF:-1 tvg-id="china-travel" tvg-logo="https://cdn.technettv.com/channel/34140/logo_256.png" group-title="Knowledge & Lifestyle",China Travel
 https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
@@ -1069,6 +1069,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="TV JEPANG" tvg-id="wowowprime" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png",WOWOW Prime  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+
 
 
 

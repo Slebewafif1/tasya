@@ -1570,6 +1570,18 @@ https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mediampd/KOMPASTVHD.mpd
 #EXTINF:-1 group-title="SPORTS TV NASIONAL" tvg-id="" tvg-logo="https://i.ibb.co.com/ST0Bhqb/GIF-Image1766347327239.gif", INDOSIAR SPORTS 
 #http://tv.casindo.org/hls/56/56.m3u8 
 
+#EXTINF:-1 group-title="SPORTS TV NASIONAL" tvg-logo="https://i.ibb.co.com/ST0Bhqb/GIF-Image1766347327239.gif",INDOSIAR SPORTS
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm 
+https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+#http://aromatv.co:80/Enjy3637/4JFEBAs359/444139
+#https://popmi.my.id/tes.m3u8?id=205
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/ST0Bhqb/GIF-Image1766347327239.gif" group-title="SPORTS TV NASIONAL", INDOSIAR SPORTS SD
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Sp/Bri.m3u8
 
@@ -2874,5 +2886,6 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148166
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148167
 
 🔵🔵🔵🔵🔵🔵
+
 
 

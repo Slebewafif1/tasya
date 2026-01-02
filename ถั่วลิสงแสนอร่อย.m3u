@@ -1081,6 +1081,192 @@ https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
 http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
 
 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
+
+#EXTINF:-1 tvg-id="82" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVu7P3S47vsKEn29qFb3oARbDas-d9JICj3qwWbzJRbw&s=10" group-title="Religion: Islam", Quran TV (DN)
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Quran_TV
+
+#EXTINF:-1 group-title="Religion: Islam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVu7P3S47vsKEn29qFb3oARbDas-d9JICj3qwWbzJRbw&s=10",Quran TV (VS)
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d856bf85229c4a42a7b0de45e4c91a31:5633e069ef585f73ccfe2dd6a85a6f48
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/099aba2d60b44679915cd56f303b975d/index.mpd
+
+#EXTINF:-1 group-title="Religion: Islam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVu7P3S47vsKEn29qFb3oARbDas-d9JICj3qwWbzJRbw&s=10",Quran TV (IHT)
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/alquran/manifest.mpd
+
+#EXTINF:-1 group-title="Religion: Islam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVu7P3S47vsKEn29qFb3oARbDas-d9JICj3qwWbzJRbw&s=10",Quran TV (YTV)
+#EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch14.m3u8
+
+#EXTINF:-1 tvg-id="88" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3HvdUarMcpFVGr_mVoWCiHiXOGqET1IXHVs1uTv6hjNFp4z3Y" group-title="Religion: Islam", Sunna TV (DN)
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Sunna_TV
+
+#EXTINF:-1 tvg-id="88" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3HvdUarMcpFVGr_mVoWCiHiXOGqET1IXHVs1uTv6hjNFp4z3Y" group-title="Religion: Islam", Sunna TV (YTV)
+#EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch13.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlA8l4OQVoAMZWwl7dRl9_DdQKvNikj1rtw1j4-EPlMQ&s=10" group-title="Religion: Islam",TV Ikim
+http://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
+
+#EXTINF:-1 group-title="Religion: Islam" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mqtv.png",MQTV
+http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/mqtv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mqtv.png" group-title="Religion: Islam",MQTV
+#EXTVLCOPT:http-referrer=http://tv.garden/
+#http://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w107392989.m3u8
+
+#EXTINF:-1 group-title="Religion: Islam" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_92.png",Muslim TV
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c2e6de6943ef47d08c2634a2df4bcece:badf619476b3bf0889ab545e8d3926f6
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd
+
+#EXTINF:-1 group-title="Religion: Islam" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rodjatv.png",Rodja TV (IHT)
+http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/rodjatv/manifest.mpd
+
+#EXTINF:-1 tvg-id="RodjaTV.id" tvg-name="Rodja TV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rodjatv.png" group-title="Religion: Islam",Rodja TV (DN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8
+ 
+#EXTINF:-1 group-title="Religion: Islam" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mta.png",MTATV
+http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/mtatv/manifest.mpd
+  
+#EXTINF:-1 group-title="Religion: Islam" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_DMITV-180x180_2025_11_06_11_00_00.jpg",DMI TV (IHT)
+http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/tawaftv/manifest.mpd
+
+#EXTINF:-1 group-title="Religion: Islam" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_DMITV-180x180_2025_11_06_11_00_00.jpg",DMI TV (VS)
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf8d36bbfa904cb8a1c714dd74217cf2:97c0f4b08a496f8ab05e46f29a71c7c8
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/7819c09ece974a7582eed4770bf60e65/index.mpd
+ 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
+#EXTINF:-1 group-title="Religion: Islam" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT51Nldd2nQJhEb2FCeVDErwrZAeBcZWO_Y934mDqEbWg&s=10",Citra Muslim
+http://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mediampd/CitraMuslimHD.mpd
+
+#EXTINF:-1 group-title="Religion: Islam" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJt8FaS-ndPk54itlcQM0ok9g4Hl7iFCUtCG9MGD8T4g&s=10",TV10
+https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
+
+ 
+ 
+#EXTINF:-1 group-title="Religion: Islam" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvmui.png",MUI TV
+https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/muitv/manifest.mpd
+ 
+#EXTINF:-1 group-title="Religion: Islam" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tv9.png",TV9 NU (VS)
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=730bf9b6641f4ca597fd0d2903ffc574:293446fd53697862b165984b860fd7b0
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9688c51b534d4165bf4b0b328e53b980/index.mpd
+ 
+#EXTINF:-1 group-title="Religion: Islam" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tv9.png",TV9 NU (IHT)
+http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/tv9/manifest.mpd
+
+#EXTINF:-1 tvg-id="TV9 NU.id" tvg-name="TV9 NU.id" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tv9.png" group-title="Religion: Islam",TV9 NU
+#http://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
+
+#EXTINF:-1 group-title="Religion: Islam" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvmu.png",TVMu (VS)
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=94f0b3d645c64f0dbe2e0990ec290cdf:0dc311915f9decffaf7dfee30c4d8482
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/980cfe26ff00479c97eb8057a1129c7f/index.mpd
+
+#EXTINF:-1 group-title="Religion: Islam" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvmu.png",TVMu (IHT)
+http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/muhammadiyahtv/manifest.mpd
+
+#EXTINF:-1 group-title="Religion: Islam" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZQ0DHlejXf0c--WXmbUldYWmQwXWf5-RnXT5-IukuPg&s=10",SALAM TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch12.m3u8
+
+#EXTINF:-1 group-title="Religion: Islam" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD9sLyX_tB2fnKbLxWBcIKps8Btbnmsa1NcDT-B0b2BQ&s=10",RADIO KITA TV
+https://streaming.yufid.com/hls/radiokitatv.m3u8
+
+#EXTINF:-1 group-title="Religion: Islam" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOsVzy3db24Yz74efVtgIWAKuxuCdR_KZRaQioAM60xw&s=10",INSAN TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch1.m3u8
+
+#EXTINF:-1 group-title="Religion: Islam" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0p4X9f-fLz_v8ntkLLePVYdrqSdkFqHmryqKykg7sYA&s=10",MADANI TV
+https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Religion: Islam" tvg-id="" tvg-logo="https://youtv.live/data/channel/ashiiltv.jpg",Ashiil TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch2.m3u8
+
+#EXTINF:-1 group-title="Religion: Islam" tvg-id="" tvg-logo="https://youtv.live/data/channel/ahsantv.jpg",Ahsan TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch4.m3u8
+
+#EXTINF:-1 group-title="Religion: Islam" tvg-id="" tvg-logo="https://youtv.live/data/channel/muadztv-2022-06-18.png",Muadz TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch5.m3u8
+
+#EXTINF:-1 group-title="Religion: Islam" tvg-id="" tvg-logo="https://youtv.live/data/channel/logo-tv-sunnah_20230608114220.png",TV Sunnah
+#EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch16.m3u8
+
+#EXTINF:-1 group-title="Religion: Islam" tvg-id="" tvg-logo="https://youtv.live/data/channel/izzahtv.jpg",Izzah TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch28.m3u8
+
+#EXTINF:-1 group-title="Religion: Islam" tvg-id="" tvg-logo="https://youtv.live/data/channel/puldapiitv.jpg",PULDAPII TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch15.m3u8
+
+#EXTINF:-1 group-title="Religion: Islam" tvg-id="" tvg-logo="https://youtv.live/data/channel/hijrahtv.jpg",Hijrah TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch8.m3u8
+
+#EXTINF:-1 group-title="Religion: Islam" tvg-id="" tvg-logo="https://youtv.live/data/channel/al-iman.png",Al Iman TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch9.m3u8
+
+#EXTINF:-1 group-title="Religion: Islam" tvg-id="" tvg-logo="https://youtv.live/data/channel/niagatv.jpg",Niaga TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch10.m3u8
+
+#EXTINF:-1 group-title="Religion: Islam" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlAIxKsKI2cqg0VkMHa0cbNWdOKEPd2QfC1Cnzm8bKnA&s=10",BinBaz TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch22.m3u8
+
+#EXTINF:-1 group-title="Religion: Islam" tvg-id="" tvg-logo="https://youtv.live/data/channel/sjptv.png",SunnahJalanPasti TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch17.m3u8
+
+#EXTINF:-1 group-title="Religion: Islam" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxbO8pD_LbhwreQh51riqT7cfcwMniyZlnnePtdpWLqw&s=10",MedSTV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch23.m3u8
+
+#EXTINF:-1 group-title="Religion: Islam" tvg-id="" tvg-logo="https://youtv.live/data/channel/naanya-tv_20250211145457.png",Naajiya TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch7.m3u8
+
+#EXTINF:-1 group-title="Religion: Islam" tvg-id="" tvg-logo="https://youtv.live/data/channel/alfurqontv.jpeg",Al Furqon TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch24.m3u8
+
+Religion: Kristen⚠️⚠️⚠️⚠️
+
+#EXTINF:-1 group-title="Religion: Kristen" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_uchannel.png",UChannel
+http://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/uchannel/manifest.mpd
+  
+#EXTINF:-1 tvg-id="78" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyjQ06lJjc-ekyMKv4ByNQK2Fwug8dQyUerAiyHny5FQ&s" group-title="Religion: Kristen",TBN
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/s/s39/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TBN
+  
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=08e5cf90e8c04a7fa90f5c126768b239:b9406a99b9ea4b07149ecc582faf2613
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9YDLRUwZyK9N6dihm1VZ-dzfvbS2vQhJETNpnSnoQVQ&s=10" group-title="Religion: Kristen",Life
+https://d2xx73ro32cip.cloudfront.net/out/v1/a61250017f23459692bf28a6841cf087/index.mpd
+
+
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
 
                                   TVRI DAERAH
@@ -1690,12 +1876,12 @@ https://7pal.short.gy/nowhkp2
 https://7pal.short.gy/nowhkp3
 
 ❤️❤️❤️❤️❤️❤️❤️
-🔵EFL | Championship
+🔵EFL Championship
 
-#EXTINF:-1 group-title="🔵EFL | Championship" tvg-id="" tvg-logo="https://i.ibb.co.com/xSq3BLjv/20251227-084639.jpg", beIN SPORTS  Qatar 3 SD
+#EXTINF:-1 group-title="🔵EFL Championship" tvg-id="" tvg-logo="https://i.ibb.co.com/xSq3BLjv/20251227-084639.jpg", beIN SPORTS  Qatar 3 SD
 http://135.125.109.73:9000/beinsport3_.m3u8
 
-#EXTINF:-1 group-title="🔵EFL | Championship" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaZKf6dHUatsDKFvbHPGqhiuOxgt-GxONHA7A6ZZ5aEQ&s=10",BeIN Sports AU 2
+#EXTINF:-1 group-title="🔵EFL Championship" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaZKf6dHUatsDKFvbHPGqhiuOxgt-GxONHA7A6ZZ5aEQ&s=10",BeIN Sports AU 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1703,10 +1889,17 @@ http://135.125.109.73:9000/beinsport3_.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd 
 
-#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.postimg.cc/9XvNkQjH/images.jpg" group-title="🔵EFL | Championship",Alwan Sport 3
+#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.postimg.cc/9XvNkQjH/images.jpg" group-title="🔵EFL Championship",Alwan Sport 3
 http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641626.ts
 
+❤️❤️❤️❤️
+UFC | Ultimate Fighting Championship
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRinjouBtV1ZQmcw921EEafjaT4BJJHYJLCFOOiQssvLw&s=10" group-title="🔵UFC | Ultimate Fighting Championship", Polsat Sports Fight
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39b61633fdd04e43a3485d3c5ddd1109:6914f88aa49c2edeacc2c876a7fc108f
+https://sports.semar.my.id/get.php?id=polsatf.mpd&auth=polsatfsemar25
 
 ❤️❤️❤️❤️❤️❤️❤️🤭❤️🤭
 CHANNEL CLUB BOLA
@@ -2505,19 +2698,19 @@ http://supersonictv.live:8080/006779/439866/7632
 #KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMon2TWtXEmaISoKNYYNr2QyXcUHZQAhqZTKyJtISEwQ&s=10",SPORTV 1
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTltVnHcIu9cwJ-3vCYSqjy0j4PrS6gB1OgGPmfxwQbEg&s=10",SPORTV 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
   
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMon2TWtXEmaISoKNYYNr2QyXcUHZQAhqZTKyJtISEwQ&s=10",SPORTV 2
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTltVnHcIu9cwJ-3vCYSqjy0j4PrS6gB1OgGPmfxwQbEg&s=10",SPORTV 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMon2TWtXEmaISoKNYYNr2QyXcUHZQAhqZTKyJtISEwQ&s=10",SPORTV 3
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTltVnHcIu9cwJ-3vCYSqjy0j4PrS6gB1OgGPmfxwQbEg&s=10",SPORTV 3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd?amznDtid=AOAGZA014O5RE&amp;encoding=segmentBase
 
 
@@ -2917,6 +3110,32 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148166
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/09/09/20250909042510381850_84.png" group-title="SPORTS",Hub Sports 8
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148167
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp829xitoAfGwvhjPRPbB4rGFYMY3S7UG3D07ZDKqbsg&s" group-title="SPORTS", Polsat Sports 1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=590abbe92e6e470a9e355d58ec910709:0af2b5f2450474207f6761adc9dc635e
+https://sports.semar.my.id/get.php?id=polsat1.mpd&auth=polsat1semar25
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp829xitoAfGwvhjPRPbB4rGFYMY3S7UG3D07ZDKqbsg&s" group-title="SPORTS", Polsat Sports 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3201accccbe9455cbc28dcd4bcdf1509:f4d9a50f98ea833d2e5120d83bd59a23
+https://sports.semar.my.id/get.php?id=polsat2.mpd&auth=polsat2semar25
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp829xitoAfGwvhjPRPbB4rGFYMY3S7UG3D07ZDKqbsg&s" group-title="SPORTS", Polsat Sports 3
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03ddf71c8dae4e8d8b171fb81ecfe609:fc80cf8969cf1b3c2c061eadb94e1330
+https://sports.semar.my.id/get.php?id=polsat3.mpd&auth=polsat3semar25
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRinjouBtV1ZQmcw921EEafjaT4BJJHYJLCFOOiQssvLw&s=10" group-title="SPORTS", Polsat Sports Fight
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39b61633fdd04e43a3485d3c5ddd1109:6914f88aa49c2edeacc2c876a7fc108f
+https://sports.semar.my.id/get.php?id=polsatf.mpd&auth=polsatfsemar25
+
+
 🔵🔵🔵🔵🔵🔵
 
 
@@ -3081,6 +3300,8 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="beINSports5" group-title="BEIN SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYW1CCPws2L7kZZ_9d_oN4503lIq44N5KWw0s4zWnz7g&s=10", beIN Sports ID 5
 #https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
+
+
 
 ==============================================================================================================================================================================================================================
 ⚠️⚠️⚠️⚠️⚠️⚠️⚠️

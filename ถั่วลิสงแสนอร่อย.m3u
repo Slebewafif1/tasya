@@ -1081,14 +1081,20 @@ http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
 
 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
 
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://i.ibb.co.com/WWF09rw6/Chat-GPT-Image-2-Jan-2026-17-04-38.png",Dangdut Enak 1
+#EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://i.ibb.co.com/WWF09rw6/Chat-GPT-Image-2-Jan-2026-17-04-38.png",MUSIC ENAK 1
 http://tv.casindo.org/hls/17/17.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://i.ibb.co.com/WWF09rw6/Chat-GPT-Image-2-Jan-2026-17-04-38.png",Dangdut Enak 2
+#EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://i.ibb.co.com/WWF09rw6/Chat-GPT-Image-2-Jan-2026-17-04-38.png",MUSIC ENAK 2
 http://tv.casindo.org/hls/18/18.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://i.ibb.co.com/WWF09rw6/Chat-GPT-Image-2-Jan-2026-17-04-38.png",Dangdut Enak 3
+#EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://i.ibb.co.com/WWF09rw6/Chat-GPT-Image-2-Jan-2026-17-04-38.png",MUSIC ENAK 3
 http://tv.casindo.org/hls/13/13.m3u8
 
 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
+
+#EXTINF:-1 group-title="Religion: Islam" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/GydAc8ocolWIwQ2A_1xFv0iQ3GM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7464/e69965.png",AJWA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=7464&type=hls
+
 
 #EXTINF:-1 tvg-id="82" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVu7P3S47vsKEn29qFb3oARbDas-d9JICj3qwWbzJRbw&s=10" group-title="Religion: Islam", Quran TV (DN)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -1769,15 +1775,25 @@ https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mediampd/KOMPASTVHD.mpd
 
 
 #EXTINF:-1 group-title="SPORTS TV NASIONAL" tvg-id="" tvg-logo="https://i.ibb.co.com/ST0Bhqb/GIF-Image1766347327239.gif", INDOSIAR SPORTS (S1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+http://tv.casindo.org/hls/56/56.m3u8
+
 
 #EXTINF:-1 group-title="SPORTS TV NASIONAL" tvg-id="" tvg-logo="https://i.ibb.co.com/ST0Bhqb/GIF-Image1766347327239.gif", INDOSIAR SPORTS (S2)
+http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
+
+#EXTINF:-1 group-title="SPORTS TV NASIONAL" tvg-id="" tvg-logo="https://i.ibb.co.com/ST0Bhqb/GIF-Image1766347327239.gif", INDOSIAR SPORTS (S3)
+http://202.169.224.202:8800/udp/239.9.1.25:1234
+
+#EXTINF:-1 group-title="SPORTS TV NASIONAL" tvg-id="" tvg-logo="https://i.ibb.co.com/ST0Bhqb/GIF-Image1766347327239.gif", INDOSIAR SPORTS (S4)
+http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
+
+#EXTINF:-1 group-title="SPORTS TV NASIONAL" tvg-id="" tvg-logo="https://i.ibb.co.com/ST0Bhqb/GIF-Image1766347327239.gif", INDOSIAR SPORTS (S5)
+https://link.zozotv.xyz:443/live/ZZA21216/zxe36880/4633.ts 
+
+#EXTINF:-1 group-title="SPORTS TV NASIONAL" tvg-id="" tvg-logo="https://i.ibb.co.com/ST0Bhqb/GIF-Image1766347327239.gif", INDOSIAR SPORTS (S6)
 https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C8-1Z2Rp7JvQhncgXXsV4UVM/ts
- 
+
+
 Nyolong bangsat
 
 #EXTINF:-1 group-title="SPORTS TV NASIONAL" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSm75uUXEv7lK_uF9ud4R3M7i43j-j2mpLxXaZv_v4nF0cVRo1RB_MiY&s=10", TVRI SPORT (S1)

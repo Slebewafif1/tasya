@@ -1777,10 +1777,10 @@ http://135.125.109.73:9000/beinsport1_.m3u8
 #EXTINF:-1 group-title="🔵Premier League | Liga Inggris" tvg-id="" tvg-logo="https://i.ibb.co.com/xSq3BLjv/20251227-084639.jpg", beIN SPORTS  Qatar 2 SD
 http://135.125.109.73:9000/beinsport2_.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.postimg.cc/9XvNkQjH/images.jpg" group-title="🔵Premier League | Liga Inggris",Alwan Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="🔵Premier League | Liga Inggris",Alwan Sport 1
 http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641624.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.postimg.cc/9XvNkQjH/images.jpg" group-title="🔵Premier League | Liga Inggris",Alwan Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="🔵Premier League | Liga Inggris",Alwan Sport 2
 http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641625.ts
 
 #EXTINF:-1 group-title="🔵Premier League | Liga Inggris" tvg-logo="https://i.ibb.co.com/HDPMbxPz/GIF-Image1766865108077.gif", Persiana Sports 1
@@ -1851,7 +1851,7 @@ http://135.125.109.73:9000/beinsport3_.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd 
 
-#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.postimg.cc/9XvNkQjH/images.jpg" group-title="🔵EFL Championship",Alwan Sport 3
+#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="🔵EFL Championship",Alwan Sport 3
 http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641626.ts
 
 ❤️❤️❤️❤️
@@ -1862,6 +1862,22 @@ UFC | Ultimate Fighting Championship
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39b61633fdd04e43a3485d3c5ddd1109:6914f88aa49c2edeacc2c876a7fc108f
 #https://sports.semar.my.id/get.php?id=polsatf.mpd&auth=polsatfsemar25
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="🔵UFC | Ultimate Fighting Championship",Alwan UFC 4K
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641615
+
+🔵🔵🔵🔵🔵
+
+WWE | World Wrestling Entertainment
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="🔵WWE | World Wrestling Entertainment",Alwan WWE 4K
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641617
+
+🔵🔵🔵
+F1 | Formula 1
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="🔵F1 | Formula 1",Alwan F1 4K
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641616
 
 ❤️❤️❤️❤️❤️❤️❤️🤭❤️🤭
 CHANNEL CLUB BOLA
@@ -2063,27 +2079,76 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 
 ==============================================================================================================================================================================================================================
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS",Alwan Sport 1 HD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641618
 
-#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.postimg.cc/9XvNkQjH/images.jpg" group-title="SPORTS",Alwan Sport 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS",Alwan Sport 1 SD (Server 1)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641624
+
+#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS",Alwan Sport 1 SD (Server 2)
 http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641624.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.postimg.cc/9XvNkQjH/images.jpg" group-title="SPORTS",Alwan Sport 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS",Alwan Sport 2 HD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641619
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS",Alwan Sport 2 SD Server 1)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641625
+
+#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS",Alwan Sport 2 SD (Server 2)
 http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641625.ts
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS",Alwan Sport 3 HD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641620
 
-#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.postimg.cc/9XvNkQjH/images.jpg" group-title="SPORTS",Alwan Sport 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS",Alwan Sport 3 SD (Server 1)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641626
+
+#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS",Alwan Sport 3 SD (Server 2)
 http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641626.ts
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS",Alwan Sport 4 HD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641621
 
-#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.postimg.cc/9XvNkQjH/images.jpg" group-title="SPORTS",Alwan Sport 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS",Alwan Sport 4 SD (Server 1)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641627
+
+#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS",Alwan Sport 4 SD (Server 2)
 http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641627.ts
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS",Alwan Sport 5 HD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641622
 
-#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.postimg.cc/9XvNkQjH/images.jpg" group-title="SPORTS",Alwan Sport 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS",Alwan Sport 5 SD (Server 1)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641628
+
+#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS",Alwan Sport 5 SD (Server 2)
 http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641628.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.postimg.cc/9XvNkQjH/images.jpg" group-title="SPORTS",Alwan Sport 6
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS",Alwan Sport 6 HD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641623
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS",Alwan Sport 6 SD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641629
+
+#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS",Alwan Sport 6 SD (Server 2)
 #http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641629.ts black screen
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS",Alwan Sport 7 4K
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641611
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS",Alwan Sport 8 4K
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641612
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS",Alwan Sport 9 4K
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641613
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS",Alwan Sport 10 4K
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641614
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS",Alwan F1 4K
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641616
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS",Alwan UFC 4K
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641615
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="SPORTS",Alwan WWE 4K
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641617
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbh-h2RAxqUR--OXqLsmElk-ewZIzL_1ue6o8DHbkLVQ&s=10" group-title="SPORTS",A SPOR 
 #https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
@@ -2823,6 +2888,31 @@ https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playl
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 #https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg" group-title="SPORTS,beIN Sports 1 ARAB (UK)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510908
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg" group-title="SPORTS,beIN Sports 2 ARAB (UK)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510909
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg" group-title="SPORTS,beIN Sports 3 ARAB (UK)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510910
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg" group-title="SPORTS,beIN Sports 4 ARAB (UK)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510911
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg" group-title="SPORTS,beIN Sports 5 ARAB (UK)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510912
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg" group-title="SPORTS,beIN Sports 6 ARAB (UK)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510913
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg" group-title="SPORTS,beIN Sports 7 ARAB (UK)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510914
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg" group-title="SPORTS,beIN Sports 8 ARAB (UK)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510915
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg" group-title="SPORTS,beIN Sports 9 ARAB (UK)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510916
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-logo="http://138.199.27.237:8080/UK/BEINSPORTSEN.png" group-title="SPORTS,beIN Sports ᴴᴰ EN 1
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/73973
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-logo="http://138.199.27.237:8080/UK/BEINSPORTSEN.png" group-title="SPORTS,beIN Sports ᴴᴰ EN 2
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/73974
+
+
+
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="SPORTS",HUB PREMIER 1 (Server 1)
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148158
 
@@ -2850,23 +2940,26 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148164
 #EXTINF:-1 tvg-logo="https://i.imgur.com/stYijJ1.png" tvg-logo= group-title="SPORTS",HUB PREMIER 8
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148165
 
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-1-sg.png?raw=true" group-title="SPORTS",Hub Sports 1
-
-
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-2-sg.png?raw=true" group-title="SPORTS",Hub Sports 2
-
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-3-sg.png?raw=true" group-title="SPORTS",Hub Sports 3
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-4-sg.png?raw=true" group-title="SPORTS",Hub Sports 4
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-5-sg.png?raw=true" group-title="SPORTS",Hub Sports 5
-
-
 #EXTINF:-1 tvg-logo="https://epg.pw/+media/images/epg/2025/02/12/20250212042824169600_35.png" group-title="SPORTS",HUB PREMIER 11
 http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148168
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-1-sg.png?raw=true" group-title="PORTS",Hub Sports 1
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/280827
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-2-sg.png?raw=true" group-title="SPORTS",Hub Sports 2
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/280828
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-3-sg.png?raw=true" group-title="SPORTS",Hub Sports 3
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/280829
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-4-sg.png?raw=true" group-title="SPORTS",Hub Sports 4
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/280830
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-5-sg.png?raw=true" group-title="SPORTS",Hub Sports 5
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/280831
+
+#EXTINF:-1 tvg-logo="https://epg.pw/+media/images/epg/2025/02/12/20250212042824169600_35.png" group-title="SPORTS",HUB PREMIER 11
+#http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148168
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/09/09/20250909042505032176_56.png" group-title="SPORTS",Hub Sports 7
 #http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148166
@@ -2902,12 +2995,90 @@ http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148167
 
 🔵🔵🔵🔵🔵🔵
 
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png" group-title="Hub premier & Hub Sports",HUB PREMIER 1 (Server 1)
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148158
+
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="Hub premier & Hub Sports",HUB PREMIER 1 (Server 2)
+https://7pal.short.gy/HPremier1
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png" group-title="Hub premier & Hub Sports",HUB PREMIER 2
+http://109.61.81.56:443/47/video.m3u8?token=e100ddf307517c88f518aff58dec39d8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png" group-title="Hub premier & Hub Sports",HUB PREMIER 3
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148160
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png" group-title="Hub premier & Hub Sports",HUB PREMIER 4
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148161
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XhX3oUI.png" group-title="Hub premier & Hub Sports",HUB PREMIER 5
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148162
+
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png" tvg-logo= group-title="Hub premier & Hub Sports",HUB PREMIER 6
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148163
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bVOyKEV.png" group-title="Hub premier & Hub Sports",HUB PREMIER 7
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148164
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/stYijJ1.png" tvg-logo= group-title="Hub premier & Hub Sports",HUB PREMIER 8
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148165
+
+#EXTINF:-1 tvg-logo="https://epg.pw/+media/images/epg/2025/02/12/20250212042824169600_35.png" group-title="Hub premier & Hub Sports",HUB PREMIER 11
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148168
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-1-sg.png?raw=true" group-title="Hub premier & Hub Sports",Hub Sports 1
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/280827
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-2-sg.png?raw=true" group-title="Hub premier & Hub Sports",Hub Sports 2
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/280828
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-3-sg.png?raw=true" group-title="Hub premier & Hub Sports",Hub Sports 3
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/280829
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-4-sg.png?raw=true" group-title="Hub premier & Hub Sports",Hub Sports 4
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/280830
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/singapore/hub-sports-5-sg.png?raw=true" group-title="Hub premier & Hub Sports",Hub Sports 5
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/280831
+
+#EXTINF:-1 tvg-logo="https://epg.pw/+media/images/epg/2025/02/12/20250212042824169600_35.png" group-title="Hub premier & Hub Sports",HUB PREMIER 11
+#http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148168
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/09/09/20250909042505032176_56.png" group-title="Hub premier & Hub Sports",Hub Sports 7
+#http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148166
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/epg/2025/09/09/20250909042510381850_84.png" group-title="Hub premier & Hub Sports",Hub Sports 8
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148167
 
 
 ⚠️⚠️⚠️⚠️⚠️
 
 
 ####$#$$$$$##
+
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg" group-title="BEIN SPORTS",beIN Sports 1 ARAB (UK)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510908
+#EXTINF:-1 tvg-id="beinsports2.qa" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg" group-title="BEIN SPORTS",beIN Sports 2 ARAB (UK)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510909
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg" group-title="BEIN SPORTS",beIN Sports 3 ARAB (UK)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510910
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg" group-title="BEIN SPORTS",beIN Sports 4 ARAB (UK)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510911
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg" group-title="BEIN SPORTS",beIN Sports 5 ARAB (UK)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510912
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg" group-title="BEIN SPORTS",beIN Sports 6 ARAB (UK)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510913
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg" group-title="BEIN SPORTS",beIN Sports 7 ARAB (UK)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510914
+#EXTINF:-1 tvg-id="beinsports8.qa" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg" group-title="BEIN SPORTS",beIN Sports 8 ARAB (UK)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510915
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg" group-title="BEIN SPORTS",beIN Sports 9 ARAB (UK)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510916
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-logo="http://138.199.27.237:8080/UK/BEINSPORTSEN.png" group-title="BEIN SPORTS",beIN Sports ᴴᴰ EN 1
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/73973
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-logo="http://138.199.27.237:8080/UK/BEINSPORTSEN.png" group-title="BEIN SPORTS",beIN Sports ᴴᴰ EN 2
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/73974
+
 
 #EXTINF:-1 group-title="BEIN SPORTS" tvg-id="" tvg-logo="https://i.ibb.co.com/xSq3BLjv/20251227-084639.jpg", beIN SPORTS Qatar 1 SD
 http://135.125.109.73:9000/beinsport1_.m3u8
@@ -3039,6 +3210,83 @@ https://link.zozotv.xyz:443/live/ZZA21216/zxe36880/482.ts
 #EXTINF:-1 group-title="Astro Sports" tvg-id="" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/10/Ch-AstroGrandstand.jpg",Astro Grandstand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 https://link.zozotv.xyz:443/live/ZZA21216/zxe36880/570.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 1 HD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641618
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 1 SD (Server 1)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641624
+
+#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 1 SD (Server 2)
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641624.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 2 HD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641619
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 2 SD Server 1)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641625
+
+#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 2 SD (Server 2)
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641625.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 3 HD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641620
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 3 SD (Server 1)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641626
+
+#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 3 SD (Server 2)
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641626.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 4 HD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641621
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 4 SD (Server 1)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641627
+
+#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 4 SD (Server 2)
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641627.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 5 HD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641622
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 5 SD (Server 1)
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641628
+
+#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 5 SD (Server 2)
+http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641628.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 6 HD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641623
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 6 SD
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641629
+
+#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 6 SD (Server 2)
+#http://forip.in/live/uqywlyae2l/6hkmudi7zk/1641629.ts black screen
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 7 4K
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641611
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 8 4K
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641612
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 9 4K
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641613
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan Sport 10 4K
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641614
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan F1 4K
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641616
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan UFC 4K
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641615
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="ALWAN SPORT",Alwan WWE 4K
+http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641617
+
 
 
 

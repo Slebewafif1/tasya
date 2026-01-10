@@ -2888,28 +2888,24 @@ https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playl
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 #https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg" group-title="SPORTS,beIN Sports 1 ARAB (UK)
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg",beIN Sports 1 ARAB (UK)
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510908
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg" group-title="SPORTS,beIN Sports 2 ARAB (UK)
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg",beIN Sports 2 ARAB (UK)
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510909
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg" group-title="SPORTS,beIN Sports 3 ARAB (UK)
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg",beIN Sports 3 ARAB (UK)
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510910
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg" group-title="SPORTS,beIN Sports 4 ARAB (UK)
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg",beIN Sports 4 ARAB (UK)
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510911
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg" group-title="SPORTS,beIN Sports 5 ARAB (UK)
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg",beIN Sports 5 ARAB (UK)
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510912
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg" group-title="SPORTS,beIN Sports 6 ARAB (UK)
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg",beIN Sports 6 ARAB (UK)
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510913
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg" group-title="SPORTS,beIN Sports 7 ARAB (UK)
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg",beIN Sports 7 ARAB (UK)
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510914
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg" group-title="SPORTS,beIN Sports 8 ARAB (UK)
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg",beIN Sports 8 ARAB (UK)
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510915
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg" group-title="SPORTS,beIN Sports 9 ARAB (UK)
+#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://i.ibb.co.com/Rk12P1KG/20260110-065741.jpg",beIN Sports 9 ARAB (UK)
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/510916
-#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-logo="http://138.199.27.237:8080/UK/BEINSPORTSEN.png" group-title="SPORTS,beIN Sports ᴴᴰ EN 1
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/73973
-#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-logo="http://138.199.27.237:8080/UK/BEINSPORTSEN.png" group-title="SPORTS,beIN Sports ᴴᴰ EN 2
-http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/73974
 
 
 

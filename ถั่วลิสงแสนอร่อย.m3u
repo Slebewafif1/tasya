@@ -230,8 +230,11 @@ https://cdn10jtedge.indihometv.com/atm/DASH/tvriworld/manifest.mpd
 DAERAH
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_5aq462t8gwWIuHqeH-DoDdK8FaD01P1sEn8ABWlkhg&s=10" group-title="DAERAH",Pal TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1768223873/ei/IaBkadqQJ4jOjuMPg8j6oAU/ip/103.30.147.120/id/wqpnD3UH9pc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_rc9FM07n9bqBnq3SKiuLg33ACB9mCSM0AVzJU0wY8CliC6AG9S18snTHZeK88OxWFtODM_IbwR/spc/q5xjPNPh1Rb_UCjd3POPoREQg0P00JGlWMUfHm1bJlw4IwB08RADVnj9_09qv26uetA/vprv/1/go/1/ns/pudPBRwdQzvceAJGDJCwYngR/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/DFEEkN-t6oiC8ycVBY2/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPKp-EE8TLnsKLKvBHf7GD7gDSkqTvrSK8KSKu1rUbjOAiBaqnbUrOFMvkC2H67mr3SI_R-izqCAdP1nj2pfU47RwA%3D%3D/file/index.m3u8
+
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="https://i.ibb.co.com/Mx09vqzh/20251205-135022.jpg" group-title="DAERAH",Matrix TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/Mx09vqzh/20251205-135022.jpg" group-title="DAERAH",Matrix TV
 https://stream.matrixtv.id/hls/stream.m3u8
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect

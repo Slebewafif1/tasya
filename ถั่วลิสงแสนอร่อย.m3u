@@ -890,7 +890,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=siar
+#https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=siar
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_bioskopindonesia.png" group-title="MOVIES & ENTERTAINMENT",Bioskop Indonesia
 http://filex.tv:8080//live/Waqas%20Latif/12345678/302218.ts
@@ -1549,7 +1549,7 @@ http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
 🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵
 
 #EXTINF:-1 group-title="Gcikar Music" tvg-id="" tvg-logo="https://i.ibb.co.com/jkpCMj4d/20260113-164457.jpg", Musik 2000an
-#https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1768318638/ei/ThJmacK6JNKg4t4P9YO10A8/ip/172.68.164.94/id/8gv3HJKA_Cw.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_qGjIaSF_32Ck0epFJH_y3g90XqzYocTs3hQppqyMQmk-YJX-ioo38m8VRc5E_l4dMUSkCEDihP/spc/q5xjPEaZKVUqtNoDPNMdO38PgJRY7ecn9EAA5KAOVzPPZtm5udvJFBSbWNz-0zTF9UI/vprv/1/go/1/ns/1gC2gqksc8472cYVaebFY0sR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/LvXgNV8EBuAHjy/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJBn0xnM5xQisdZnI_0VXtOQZdHLDM5ykXhiQO-e2Az4AiArlqDIfN-tc28ho61QQ0IQ6CeryJkKd76uuae4gO0_CA%3D%3D/file/index.m3u8
+#http://tvgp.diskon.cloud/live/youtube-live.php?channel=UCxxnxya_32jcKj4yN1_kD7A
 
 🔵🔵🔵🔵🔵🔵
 
@@ -2008,7 +2008,7 @@ https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc23c442355854992a264931a28fc1c5:3a3368fa385a049695ff4de3c36809cd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=siar
+#https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=siar
 
 #EXTINF:-1 tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png" group-title="TV Malaysia 🇲🇾",Dunia Sinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2473,6 +2473,20 @@ https://tv.casindo.org/hls/50/50.m3u8
 
 #EXTINF:-1 group-title="SPORTS TV NASIONAL" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvVUsSBqOYYFRhh--KgKaOvznTISj3j7QDf_LKTJGA_w&s=10", MNCTV SPORTS
 https://tv.casindo.org/hls/54/54.m3u8
+
+❤️❤️❤️❤️❤️❤️❤️
+
+#EXTINF:-1 group-title="🔵YONEX SUNRISE India Open 2026" g-logo="https://shorter.me/xKSI8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj3PngPDNf3U9Kcb2mp8HcCF9nsXHvHOG-rifBjxDGiw&s=10", YONEX SUNRISE India Open 2026 CH1
+https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/21041998/4108656249631061_AiHD.m3u8?txSecret=77b111c5b623d401fc532505d023918e&txTime=69684A20
+#EXTINF:-1 group-title="🔵YONEX SUNRISE India Open 2026" g-logo="https://shorter.me/xKSI8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj3PngPDNf3U9Kcb2mp8HcCF9nsXHvHOG-rifBjxDGiw&s=10", YONEX SUNRISE India Open 2026 CH2
+https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/21041998/4108656456720061_AiHD.m3u8?txSecret=25fd05f54a1db175a586d2ddfa437d0c&txTime=69684A20
+#EXTINF:-1 group-title="🔵YONEX SUNRISE India Open 2026" g-logo="https://shorter.me/xKSI8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj3PngPDNf3U9Kcb2mp8HcCF9nsXHvHOG-rifBjxDGiw&s=10", YONEX SUNRISE India Open 2026 CH3
+https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/21041998/4108656649927061_AiHD.m3u8?txSecret=110b585f03ea2850c408a92132497d8c&txTime=69684A20
+#EXTINF:-1 group-title="🔵YONEX SUNRISE India Open 2026" g-logo="https://shorter.me/xKSI8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj3PngPDNf3U9Kcb2mp8HcCF9nsXHvHOG-rifBjxDGiw&s=10", YONEX SUNRISE India Open 2026 CH4
+https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/21041998/4112121900850061_AiHD.m3u8?txSecret=66fb108e6312909d71a3e529c63848f1&txTime=69684A20
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj3PngPDNf3U9Kcb2mp8HcCF9nsXHvHOG-rifBjxDGiw&s=10" group-title="🔵YONEX SUNRISE India Open 2026",EUROSPORT (TP)
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/23308
+
 
 ❤️❤️❤️❤️❤️❤️
 🔵Premier League | Liga Inggris

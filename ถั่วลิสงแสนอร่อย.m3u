@@ -224,7 +224,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH/TVRI/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/tvriworld/manifest.mpd
 
 #EXTINF:-1 group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_Sinpo-1800x1800_2025_11_06_13_04_13.jpg",SIN PO TV (IHT)
-#https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
+
 
 ❤️❤️❤️❤️
 
@@ -338,7 +339,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000115/1024.m3u8
 
 
 #EXTINF:-1 group-title="Nasional OS6" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_Sinpo-1800x1800_2025_11_06_13_04_13.jpg",Sin Po TV
-#http://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
+http://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 
 #EXTINF:-1 tvg-id="--" group-title="Nasional OS6" group-logo="http://iili.io/FZpXRf4.jpg" tvg-logo="https://images.indihometv.com/images/channels/image_ch_tvone.png",TVONE (Server 1)
 http://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
@@ -953,6 +954,10 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
 
 #EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://images.indihometv.com/images/channels/image_ch_animax.png" group-title="MOVIES & ENTERTAINMENT OS6",ANIMAX (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
+
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT OS6" tvg-logo="https://images.indihometv.com/images/channels/image_ch_aniplus.png",Aniplus (IHT)
+https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest.mpd
+
 
 #EXTINF:-1 group-title="MOVIES & ENTERTAINMENT OS6" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-180x180_2025_11_05_11_21_29.jpg",HBO
 http://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd

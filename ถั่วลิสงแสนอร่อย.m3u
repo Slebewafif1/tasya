@@ -1269,10 +1269,15 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mediampd/AnimaxHD.mpd
 #EXTINF:-1 group-title="MOVIES & ENTERTAINMENT" tvg-id="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_animax.png",Animax (VS)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 
+#EXTINF:-1 group-title="MOVIES & ENTERTAINMENT" tvg-logo="https://images.indihometv.com/images/channels/image_ch_aniplus.png",Aniplus (IHT)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
+https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_aniplus.png" group-title="MOVIES & ENTERTAINMENT",Aniplus
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.indihometv.com/images/channels/image_ch_aniplus.png" group-title="MOVIES & ENTERTAINMENT",Aniplus (ORG) (Beberapa Device Ga Support)
 https://slive.mana2.my/AniPlus/index.mpd
 
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -2477,15 +2482,18 @@ https://tv.casindo.org/hls/54/54.m3u8
 ❤️❤️❤️❤️❤️❤️❤️
 
 #EXTINF:-1 group-title="🔵YONEX SUNRISE India Open 2026" g-logo="https://shorter.me/xKSI8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj3PngPDNf3U9Kcb2mp8HcCF9nsXHvHOG-rifBjxDGiw&s=10", YONEX SUNRISE India Open 2026 CH1
-https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/21041998/4108656249631061_AiHD.m3u8?txSecret=77b111c5b623d401fc532505d023918e&txTime=69684A20
+#https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/21041998/4108656249631061_AiHD.m3u8?txSecret=77b111c5b623d401fc532505d023918e&txTime=69684A20
 #EXTINF:-1 group-title="🔵YONEX SUNRISE India Open 2026" g-logo="https://shorter.me/xKSI8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj3PngPDNf3U9Kcb2mp8HcCF9nsXHvHOG-rifBjxDGiw&s=10", YONEX SUNRISE India Open 2026 CH2
-https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/21041998/4108656456720061_AiHD.m3u8?txSecret=25fd05f54a1db175a586d2ddfa437d0c&txTime=69684A20
+#https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/21041998/4108656456720061_AiHD.m3u8?txSecret=25fd05f54a1db175a586d2ddfa437d0c&txTime=69684A20
 #EXTINF:-1 group-title="🔵YONEX SUNRISE India Open 2026" g-logo="https://shorter.me/xKSI8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj3PngPDNf3U9Kcb2mp8HcCF9nsXHvHOG-rifBjxDGiw&s=10", YONEX SUNRISE India Open 2026 CH3
-https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/21041998/4108656649927061_AiHD.m3u8?txSecret=110b585f03ea2850c408a92132497d8c&txTime=69684A20
+#https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/21041998/4108656649927061_AiHD.m3u8?txSecret=110b585f03ea2850c408a92132497d8c&txTime=69684A20
 #EXTINF:-1 group-title="🔵YONEX SUNRISE India Open 2026" g-logo="https://shorter.me/xKSI8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj3PngPDNf3U9Kcb2mp8HcCF9nsXHvHOG-rifBjxDGiw&s=10", YONEX SUNRISE India Open 2026 CH4
-https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/21041998/4112121900850061_AiHD.m3u8?txSecret=66fb108e6312909d71a3e529c63848f1&txTime=69684A20
+#https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/21041998/4112121900850061_AiHD.m3u8?txSecret=66fb108e6312909d71a3e529c63848f1&txTime=69684A20
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj3PngPDNf3U9Kcb2mp8HcCF9nsXHvHOG-rifBjxDGiw&s=10" group-title="🔵YONEX SUNRISE India Open 2026",EUROSPORT (TP)
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/23308
+#http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/23308
+#EXTINF:-0 tvg-id="TrueSport7.th" tvg-name="TrueSport7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm8JpvdlcROg1wC7WsyMn4v8_89O9TkhcRo0p5WeKhg&s" group-title="🔵YONEX SUNRISE India Open 2026",True Sports 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36
+#http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8
 
 
 ❤️❤️❤️❤️❤️❤️
@@ -2590,6 +2598,9 @@ UFC | Ultimate Fighting Championship
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39b61633fdd04e43a3485d3c5ddd1109:6914f88aa49c2edeacc2c876a7fc108f
 #https://sports.semar.my.id/get.php?id=polsatf.mpd&auth=polsatfsemar25
+
+#EXTINF:-1 group-title="🔵UFC | Ultimate Fighting Championship" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAXgCK4a4Ty4R-JVqJApMPWY6gduuAxOhEOb4a5XmdOA&s=10", Tvn Sport KR
+http://live-114.myjktv.com/watch/live.m3u8?video=olivetv_540&sid=Sc69BEXBW6k9CNxZ97nZJN0bCi3J1VHo81hZHS4t&secret=2605541eafa12736a1579bb64743e09a&time=1736162204 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/xtKbcvyx/Screenshot-2026-0110-071335.png" group-title="🔵UFC | Ultimate Fighting Championship",Alwan UFC 4K
 http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641615
@@ -3051,7 +3062,7 @@ https://spstr.abntv.live/hls/psstream.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="trueSports Arena.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm8JpvdlcROg1wC7WsyMn4v8_89O9TkhcRo0p5WeKhg&s",True Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36
-http://moo7-restream2025.ddns.net:9091/Sport_tv_ts2/index.m3u8
+#http://moo7-restream2025.ddns.net:9091/Sport_tv_ts2/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="truesports3.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm8JpvdlcROg1wC7WsyMn4v8_89O9TkhcRo0p5WeKhg&s",True Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36
@@ -3059,7 +3070,7 @@ http://moo7-restream2025.ddns.net:9091/Sport_tv_ts2/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="truesports5.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm8JpvdlcROg1wC7WsyMn4v8_89O9TkhcRo0p5WeKhg&s",True Sports 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36
-http://moo7-restream2025.ddns.net:9091/Sport_tv_ts5/index.m3u8 eror 404
+#http://moo7-restream2025.ddns.net:9091/Sport_tv_ts5/index.m3u8 eror 404
 
 #EXTINF:-0 tvg-id="TrueSport7.th" tvg-name="TrueSport7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm8JpvdlcROg1wC7WsyMn4v8_89O9TkhcRo0p5WeKhg&s" group-title="SPORTS",True Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36
@@ -3220,8 +3231,8 @@ https://nog-live1-ott.izzigo.tv/5/out/u/dash/SKYSPORTS24HD/default.mpd
 
 
 #EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-8iQjRNA0quysvPC3GV0mSX_kTDe2eABCjGTQY2pXsg&s=10" group-title="SPORTS",Sky Sports Tennis
-http://109.61.81.35:443/582/video.m3u8?token=11d5defc9396d7952957029a688f94af
-berat
+#http://109.61.81.35:443/582/video.m3u8?token=11d5defc9396d7952957029a688f94af
+mati
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3307,12 +3318,12 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/u142pfptsm/
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc-8eFnxcvSLhAIy8n30rYJ1Cx-MlhILrD1_3enDxQdocyytnkZBA8WPk&s=10", SPOTV 1 KR
-http://live-114.myjktv.com/watch/live.m3u8?video=spotv_540&sid=TvfNH1cUZSwgcPCW2TtPFJuQlta1zp7Nu6f3yFpw&secret=00e1b9512c645651c32cbc6d6c5d8cba&time=1736162319 
+#http://live-114.myjktv.com/watch/live.m3u8?video=spotv_540&sid=TvfNH1cUZSwgcPCW2TtPFJuQlta1zp7Nu6f3yFpw&secret=00e1b9512c645651c32cbc6d6c5d8cba&time=1736162319 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc-8eFnxcvSLhAIy8n30rYJ1Cx-MlhILrD1_3enDxQdocyytnkZBA8WPk&s=10",SPOTV 2 KR
-http://live-114.myjktv.com/watch/live.m3u8?video=spotv_2_540&sid=2iUb1KysZi1FgI3A4q1vTwlJpRRkoy54IEYb0BCv&secret=c39c338dae3770e87e398ac056d6f176&time=1736162164 
+#http://live-114.myjktv.com/watch/live.m3u8?video=spotv_2_540&sid=2iUb1KysZi1FgI3A4q1vTwlJpRRkoy54IEYb0BCv&secret=c39c338dae3770e87e398ac056d6f176&time=1736162164 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuRwQ5hk3jO8LYKFDam6NFYaiR1oMxDLrWF_08aIfaXQ&s=10", KBSN Sports KR
-http://live-114.myjktv.com/watch/live.m3u8?video=kbs_n_sports_540&sid=SQuHD7cISYiboGZRb3O0wkHG2XNxR5DUyZqqP8FF&secret=dbb984cb4a0e1f03e915ac9266883845&time=1736162356 
+#http://live-114.myjktv.com/watch/live.m3u8?video=kbs_n_sports_540&sid=SQuHD7cISYiboGZRb3O0wkHG2XNxR5DUyZqqP8FF&secret=dbb984cb4a0e1f03e915ac9266883845&time=1736162356 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsB8qTtGXOHo-rO-VzxK1wgxpp1Tj-2zsqAVshNuY-6A&s=10", SBS GOLF KR
 https://live-114.myjktv.com:443/watch/live.m3u8?video=sbs_golf_540&sid=dSiL8snhWLBSxgMrdde29keoesdXq7JqYoo8mFcL&secret=bbde0e71fad0fca7d433ed9cc50f7c83&time=1745186535 
@@ -3532,7 +3543,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba811cbf6c7afe35396453271437e013:b55a91719f41754015edb61f5cd2468c
-https://ac-003.live.p7s1video.net/c8f927b4/t_003/orf-sport-plus-at/cenc-default.mpd
+#https://ac-003.live.p7s1video.net/c8f927b4/t_003/orf-sport-plus-at/cenc-default.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFdD8GtSHXKmmtSokzFKJciTrt6fdpKyHU200K4STHrg&s=10",RTVS SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36

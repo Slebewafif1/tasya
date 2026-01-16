@@ -955,7 +955,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
 #EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://images.indihometv.com/images/channels/image_ch_animax.png" group-title="MOVIES & ENTERTAINMENT OS6",ANIMAX (gak support wifi indih*me)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
 
-
 #EXTINF:-1 group-title="MOVIES & ENTERTAINMENT OS6" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-180x180_2025_11_05_11_21_29.jpg",HBO
 http://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 
@@ -2483,19 +2482,18 @@ https://tv.casindo.org/hls/54/54.m3u8
 
 ❤️❤️❤️❤️❤️❤️❤️
 
-#EXTINF:-1 group-title="🔵YONEX SUNRISE India Open 2026" g-logo="https://shorter.me/xKSI8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj3PngPDNf3U9Kcb2mp8HcCF9nsXHvHOG-rifBjxDGiw&s=10", YONEX SUNRISE India Open 2026 CH1
-#https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/21041998/4108656249631061_AiHD.m3u8?txSecret=77b111c5b623d401fc532505d023918e&txTime=69684A20
-#EXTINF:-1 group-title="🔵YONEX SUNRISE India Open 2026" g-logo="https://shorter.me/xKSI8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj3PngPDNf3U9Kcb2mp8HcCF9nsXHvHOG-rifBjxDGiw&s=10", YONEX SUNRISE India Open 2026 CH2
-#https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/21041998/4108656456720061_AiHD.m3u8?txSecret=25fd05f54a1db175a586d2ddfa437d0c&txTime=69684A20
-#EXTINF:-1 group-title="🔵YONEX SUNRISE India Open 2026" g-logo="https://shorter.me/xKSI8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj3PngPDNf3U9Kcb2mp8HcCF9nsXHvHOG-rifBjxDGiw&s=10", YONEX SUNRISE India Open 2026 CH3
-#https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/21041998/4108656649927061_AiHD.m3u8?txSecret=110b585f03ea2850c408a92132497d8c&txTime=69684A20
-#EXTINF:-1 group-title="🔵YONEX SUNRISE India Open 2026" g-logo="https://shorter.me/xKSI8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj3PngPDNf3U9Kcb2mp8HcCF9nsXHvHOG-rifBjxDGiw&s=10", YONEX SUNRISE India Open 2026 CH4
-#https://01a7debea34b410001e86f430d9634e2.v.smtcdns.net/play.cbalive.weibisai.com/live/21041998/4112121900850061_AiHD.m3u8?txSecret=66fb108e6312909d71a3e529c63848f1&txTime=69684A20
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj3PngPDNf3U9Kcb2mp8HcCF9nsXHvHOG-rifBjxDGiw&s=10" group-title="🔵YONEX SUNRISE India Open 2026",EUROSPORT (TP)
-#http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/23308
+
 #EXTINF:-0 tvg-id="TrueSport7.th" tvg-name="TrueSport7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm8JpvdlcROg1wC7WsyMn4v8_89O9TkhcRo0p5WeKhg&s" group-title="🔵YONEX SUNRISE India Open 2026",True Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36
-#http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8
+http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8
+
+#EXTINF:-1 group-title="🔵YONEX SUNRISE India Open 2026" tvg-id="trueSports Arena.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm8JpvdlcROg1wC7WsyMn4v8_89O9TkhcRo0p5WeKhg&s",True Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36
+http://moo7-restream2025.ddns.net:9091/Sport_tv_ts2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK4N77tyOzPPa2WCkG98fKgWI-RupS4HC-VpUg7LHkSw&s=10" group-title="🔵YONEX SUNRISE India Open 2026",EUROSPORT (TP)
+http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/23308
+
 
 
 ❤️❤️❤️❤️❤️❤️
@@ -2570,6 +2568,17 @@ https://7pal.short.gy/nowhkp3
 ❤️❤️❤️❤️❤️❤️
 
 PETRONAS Malaysia Open 2026
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="🔵PETRONAS Malaysia Open 2026" group-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBfX1IrV-eg8rQU46VBWPZQCeUORH9uX-NOK9zvbOoWw&s=10",SUKAN RTM (X1)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+http://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBfX1IrV-eg8rQU46VBWPZQCeUORH9uX-NOK9zvbOoWw&s=10" group-title="🔵PETRONAS Malaysia Open 2026",SUKAN RTM (X2)
+https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Okey" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJNVbxt4XtGPzLAumjr7aOKRMdE2-5GUZC6qR3lGpQiA&s=10" group-title="🔵PETRONAS Malaysia Open 2026",TV OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
@@ -3064,7 +3073,7 @@ https://spstr.abntv.live/hls/psstream.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="trueSports Arena.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm8JpvdlcROg1wC7WsyMn4v8_89O9TkhcRo0p5WeKhg&s",True Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36
-#http://moo7-restream2025.ddns.net:9091/Sport_tv_ts2/index.m3u8
+http://moo7-restream2025.ddns.net:9091/Sport_tv_ts2/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="truesports3.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBm8JpvdlcROg1wC7WsyMn4v8_89O9TkhcRo0p5WeKhg&s",True Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36
@@ -4040,6 +4049,5 @@ http://atlan2025.me/Rochdi70sam/d3hm7lsqrh/1641617
 
 
 ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
-
 
 
